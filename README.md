@@ -12,7 +12,7 @@ Click demo to try it by yourself!
 
 ## Genesis - Bootstrap5 Template Demo Link
 
-You can view the site here [Click Me](https://https://genesis-bootstrap5-tenplate.surge.sh/)
+You can view the site here [Click Me](https://genesisecommerce.netlify.app/) 
 
 
 ## Topics
