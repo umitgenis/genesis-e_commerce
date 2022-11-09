@@ -1,0 +1,16 @@
+{
+  "name": "genesis-e_commerce",
+  "version": "1.0.0",
+  "main": "unrelated.js",
+  "targets": {
+    "main": false
+  },
+  "license": "MIT",
+  "scripts": {
+    "dev": "parcel public/index.html",
+    "build": "parcel build public/index.html"   
+  },
+  "devDependencies": {
+    "parcel": "^2.8.0"
+  }
+}
