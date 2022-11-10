@@ -3,9 +3,6 @@
 <<<<<<< HEAD
 Genesis is a highly flexible free Bootstrap template for the digital marketing business. It comes with a background image in the hero header area that makes your images and content stand out with a clean and minimal look. Genesis is 100% responsive and looks great on every device. 
 
-=======
-Genesis is a highly flexible free Bootstrap template for the digital marketing business. It comes with a background image in the hero header area that makes your images and content stand out with a clean and minimal look. Genesis is 100% responsive and looks great on every device.
->>>>>>> 004ea5c76e58c0dbfc723114e5e71a737da6758c
 
 ## Preview
 ![](./public/img/genesis.gif)
