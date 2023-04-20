@@ -1,6 +1,6 @@
 #  Genesis (e-Commerce) Bootstrap 5 Template  
 
-Genesis is a highly flexible free Bootstrap template for the digital marketing business. It comes with a background image in the hero header area that makes your images and content stand out with a clean and minimal look. Genesis is 100% responsive and looks great on every device. 
+Genesis is a highly flexible Bootstrap template for the digital marketing business. It comes with a background image in the hero header area that makes your images and content stand out with a clean and minimal look. Genesis is 100% responsive and looks great on every device. 
 
 
 ## Preview
